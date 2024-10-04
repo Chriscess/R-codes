@@ -1,5 +1,5 @@
 # R-codes
-This project shows the analysis of the world demography.
+This project shows the analysis of the world demography using R studio
 
 Showing trends of birth rate among continents
 
