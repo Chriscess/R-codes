@@ -24,6 +24,17 @@ The Population variable was converted to log 10 for easy visualization.
 	-Internet user
 	-Income group 
  ![image](https://github.com/user-attachments/assets/388f9736-9f0b-42f6-a3da-d3017a48428d)
+ 
+![image](https://github.com/user-attachments/assets/930f71da-36b1-4a3b-8fe8-668eed11f424)
+
+![image](https://github.com/user-attachments/assets/362b7e5d-14d5-4594-a112-1a554f2eed80)
+
+![image](https://github.com/user-attachments/assets/d7edca16-03b0-4040-9289-8331064b22c6)
+
+![image](https://github.com/user-attachments/assets/ca2c5939-afca-4310-829b-020473e34a94)
+
+
+
 
  # Recommendations
 
