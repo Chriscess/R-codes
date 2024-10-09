@@ -28,22 +28,27 @@ For both upper income and lower middle income Asia has the highest average.
 
 Among the continent Oceania is  the least in average for all income groups.
 
-![image](https://github.com/user-attachments/assets/1ff6cd53-6a67-497c-8877-0c81e4640a6d)
+![image](https://github.com/user-attachments/assets/38697776-8380-44cd-be9f-fd163ecb40fa)
 
 Asia has the highest population on average among the continents. However, justapoxing the bar chart in slide 6 with this box plot, Africa has the highest Population. On average, Oceania is the least populated.
 
+![image](https://github.com/user-attachments/assets/636b0111-6766-494c-a123-2f0453d693c4)
 
-![image](https://github.com/user-attachments/assets/368c09be-fc33-49ac-8d0c-18a3b81fb10b)
 
 Africa is the most populated continent with a low population density in comparison with its population, also it is more  populated with low income group as seen in the box plot above. Asia has the highest population density.
+
+![image](https://github.com/user-attachments/assets/70d6257c-e3ca-4248-b261-70e92ff8d37f)
+
 
 N.B - Population density is the measurement of population per unit and land area.
 
 
-![image](https://github.com/user-attachments/assets/9f630824-45c9-4af6-9d2d-08bd550eab3e)
 
+![image](https://github.com/user-attachments/assets/18787ba8-4fc9-4c7b-b6b8-c474907e08f9)
+
+ ![image](https://github.com/user-attachments/assets/49f6bf78-f7e6-44ea-a1fa-20b6267a9a1d)
  
-![image](https://github.com/user-attachments/assets/930f71da-36b1-4a3b-8fe8-668eed11f424)
+
 
 ![image](https://github.com/user-attachments/assets/362b7e5d-14d5-4594-a112-1a554f2eed80)
 
