@@ -18,7 +18,7 @@ Demography data, Countries by continent, Countries table.
  The variables are:
 	Country,Birthrate,Continent,Population(2024),Density,Internet user,Income group.
  
- ![image](https://github.com/user-attachments/assets/388f9736-9f0b-42f6-a3da-d3017a48428d)
+![image](https://github.com/user-attachments/assets/ec42f9e2-335b-4def-abeb-ac52217f9d95)
 
 On average, Europe and Asia has the highest income group.
 
@@ -30,7 +30,17 @@ Among the continent Oceania is  the least in average for all income groups.
 
 ![image](https://github.com/user-attachments/assets/1ff6cd53-6a67-497c-8877-0c81e4640a6d)
 
+Asia has the highest population on average among the continents. However, justapoxing the bar chart in slide 6 with this box plot, Africa has the highest Population. On average, Oceania is the least populated.
+
+
 ![image](https://github.com/user-attachments/assets/368c09be-fc33-49ac-8d0c-18a3b81fb10b)
+
+Africa is the most populated continent with a low population density in comparison with its population, also it is more  populated with low income group as seen in the box plot above. Asia has the highest population density.
+
+N.B - Population density is the measurement of population per unit and land area.
+
+
+![image](https://github.com/user-attachments/assets/9f630824-45c9-4af6-9d2d-08bd550eab3e)
 
  
 ![image](https://github.com/user-attachments/assets/930f71da-36b1-4a3b-8fe8-668eed11f424)
