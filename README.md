@@ -51,11 +51,13 @@ Africa has the highest birth rate, with North America having the least birth rat
 This explains that the population of Africa as a continent  is due to birth rate rather than immigration.
 
 Europe has the least birth rate in respect to population, and it the third populated continent and this is as a result of immigration <a href="https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240711-1"> reference
+
   
 ![image](https://github.com/user-attachments/assets/70dd1086-a396-42ea-85ca-ac0512bc62c5)
 
 
-![image](https://github.com/user-attachments/assets/b6d597b7-214a-4834-bda5-50d139f923a3)
+![image](https://github.com/user-attachments/assets/be3bd724-a664-4a87-837e-dc13abbb2e05)
+
 
 Africa has the highest population, highest birth rate and the least internet users. these means most African countries are not exposed to technology, this can also be linked to the income rate, the higher the income the more affordable internet can be.
 
