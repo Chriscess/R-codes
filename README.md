@@ -1,5 +1,5 @@
 # World Demography Analysis using  R
-# This project shows the analysis of the world demography using R studio
+
 # Data Objective
  Showing trends of birth rate among continents
  Identifying trends that explains the rate of internet users among population
